@@ -5,7 +5,7 @@
 - **프로젝트 인원 : 5명**
 - **프로젝트 개요 : 크라우드 펀딩 플랫폼 WadizIt 사이트**
 - **사용 프로그램 : Visual Studio, IntelliJ, MySQL**
-- **사용 언어 : HTML, CSS, JavaScript, React, Java**
+- **사용 언어 : Java, HTML, CSS, JavaScript, React**
 
 ## 환경 구성
 
