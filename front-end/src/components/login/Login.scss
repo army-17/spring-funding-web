@@ -1,0 +1,19 @@
+.Login {
+  // flex: 1;
+  // min-height: 300px;
+  // width: 800px;
+  // margin: 10px auto;
+
+  .Content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    padding: 10px;
+    background: white;
+    margin: 1.5rem auto;
+    border-radius: 5px;
+    padding-bottom: 2rem;
+    margin-top: 10vh;
+  }
+}

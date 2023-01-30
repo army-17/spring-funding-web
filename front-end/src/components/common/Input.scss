@@ -1,0 +1,31 @@
+.Input {
+  width: 25vw;
+  height: 2.5rem;
+  font-size: 1.1rem;
+  line-height: 2.5rem;
+  border: none;
+  border-radius: 1.25rem;
+  background: rgb(230, 230, 230);
+  text-align: center;
+
+  &::placeholder {
+    color: rgb(85, 84, 84);
+  }
+
+  & + &,
+  & + .Button,
+  .Button + & {
+    margin-top: 1rem;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .Input {
+    width: 576px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .Input {
+    width: 40vw;
+  }
+}

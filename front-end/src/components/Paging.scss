@@ -1,0 +1,26 @@
+.Paging {
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+  padding: 10px;
+  .Number {
+    display: inline-flex;
+    color: #00b2b2;
+    border: 1px solid #00b2b2;
+    cursor: pointer;
+    justify-content: center;
+    width: 1.5rem;
+    margin: 0 2px;
+    font-size: 0.85rem;
+
+    &:hover {
+      background-color: #00b2b2;
+      color: white;
+    }
+
+    &.cur {
+      background-color: #00b2b2;
+      color: white;
+    }
+  }
+}

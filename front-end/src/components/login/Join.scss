@@ -1,0 +1,28 @@
+.Join {
+  // flex: 1;
+  // min-height: 500px;
+  // width: 800px;
+  // margin: 10px auto;
+
+  .JoinContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // width: 500px;
+    // padding: 15px;
+    background: white;
+    margin-top: 10vh;
+    border-radius: 5px;
+    padding-bottom: 2rem;
+    .message {
+      font-size: 1rem;
+      &.success {
+        color: #00b2b2;
+      }
+      &.error {
+        // background-color: #ffe6e8;
+        color: #e94e58;
+      }
+    }
+  }
+}

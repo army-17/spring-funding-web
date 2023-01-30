@@ -1,0 +1,92 @@
+.theme{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+
+}
+
+.boardForm{
+    margin-bottom: 10px;
+    border-top : 2px solid #90949c;
+}
+
+.inputForm{
+    border: none;
+}
+
+.title{
+    border: none;
+    width: 60vw;
+    border-bottom: 1px solid #a2a6ad;
+    font-size: 16px;
+    padding : 5px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    outline: none;
+}
+
+.writer{
+    height: 30px;
+}
+
+.boardWrContent{
+    width: 60vw;
+    height: 60vh;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+    resize: none;
+    border-bottom: 1px solid #90949c;
+    vertical-align: bottom;
+    outline: none;
+}
+
+.fileUpload {
+    width: 60vw;
+    height: 40px;
+    line-height: 40px;
+    font-size: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    text-align: left;
+}
+
+.boardWrArea{
+    border-bottom: 2px solid #a2a6ad;
+}
+
+.fileBtn{
+    display: inline;
+}
+
+
+.btn{
+    margin-top: 10px;
+    width: 60vw;
+    height: 40px;
+    display: inline-block;
+}
+
+.btnArea{
+    width: 140px;
+    height: 40px;
+    display: inline;
+
+}
+
+.writeBtn{
+    float: right;
+    cursor: pointer;
+    
+}
+
+.backBtn{
+    float: left;
+    cursor: pointer;
+
+}

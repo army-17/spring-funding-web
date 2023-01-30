@@ -1,0 +1,123 @@
+.theme{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+
+}
+
+.bdBoardForm{
+    width: 60vw;
+    margin-bottom: 10px;
+    border-top : 2px solid #747578;
+    border-bottom: 2px solid #747578;
+    padding-bottom: 5px;
+}
+
+.bdTitle{
+    border-bottom: 1px solid #90949c;
+    width: 60vw;
+    font-size: 16px;
+    padding : 5px;
+    height: 40px;
+    line-height: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: left;
+}
+
+.bdInfo {
+    width: 60vw;
+    font-size: 15px;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #90949c;
+    
+}
+
+.bdInfoArea{
+    width: 400px;
+    float: right;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.bdWriter, .bdDate, .bdView{
+    display: inline;
+    font-size: 14px;
+    height: 40px;
+}
+
+.bdWriter, .bdDate {
+    padding: 5px;
+}
+
+.bdContent {
+    border-bottom: 1px solid #90949c;
+    width: 60vw;
+    font-size: 16px;
+    padding : 15px;
+    height: 60vh;
+    text-align: left;
+
+}
+
+
+.bdFileInfo {
+    width: 60vw;
+    font-size: 13px;
+    padding : 5px;
+    height: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-bottom: none;
+    line-height: 25px;
+    display: inline-block;
+    text-align: left;
+}
+
+.bdFileTitle {
+    height: 20px;
+    line-height: 20px;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.bdFileList{
+    margin-bottom: 10px;
+}
+
+.fileDown{
+    display: inline;
+    padding-right: 8px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 13px;
+    cursor: pointer;
+
+}
+
+
+.bdBtn{
+    width: 60vw;
+    height: 40px;
+    display: inline-block;
+}
+
+.bdBackBtn{
+    display: inline;
+    float: left;
+
+}
+
+.bdBtnArea{
+    display: inline;
+    float: right;
+    
+}
+
+.bdUpdateBtn{
+    margin-right: 10px;
+}
