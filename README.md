@@ -27,9 +27,7 @@
 
 **[ 메인페이지 ]**
 
-<img width="485" alt="wadizIt_mainPage" src="https://user-images.githubusercontent.com/96126414/215398974-e78ba451-d28c-4e93-8ffe-2522018e945a.png">
-
-
+<img width="485" alt="wadizIt_mainPage" src="https://user-images.githubusercontent.com/96126414/215398974-e78ba451-d28c-4e93-8ffe-2522018e945a.png"><br><br>
 
 **[ 주요 담당 기능 ]**
 1. 펀딩 상세 정보 페이지
@@ -41,6 +39,33 @@
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/96126414/223680358-82e1464c-d9e8-4eaf-b9c8-d9b768921eb1.png"><br><br>
 
 3. 펀딩 후원하기 모달창
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/96126414/223681923-10e5a326-8c46-400d-ba72-7c770d782ff3.png"><br><br>
+
+4. 자유게시판 페이지
+
+- 자유게시판 리스트
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/96126414/223682324-9c2d0862-ee0f-45c7-9853-167c42ab1ac8.png"><br><br>
+
+- 자유게시판 작성
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/96126414/223682494-91f1d1d2-3f9c-488a-99a3-fff2c7d9a933.png"><br><br>
+
+- 자유게시판 상세정보
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/96126414/223682659-12160e3f-8cdc-4a80-b9af-23466fde0db5.png"><br><br>
+
+- 자유게시판 수정
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/96126414/223682859-0a5831f1-9205-4ec7-831d-5a3ed449b9b0.png"><br><br>
+
+- 자유게시판 댓글
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/96126414/223683091-2633b9ea-ce85-466c-b433-9a00895744bd.png"><br><br>
+
+
+## 마치며
 
 
 
