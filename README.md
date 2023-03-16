@@ -30,11 +30,11 @@
 <img width="485" alt="wadizIt_mainPage" src="https://user-images.githubusercontent.com/96126414/215398974-e78ba451-d28c-4e93-8ffe-2522018e945a.png"><br><br>
 
 **[ 주요 담당 기능 ]**
-1. 펀딩 상세 정보 페이지
+1. 펀딩 상세정보 페이지
 
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/96126414/223679762-0c9698a0-13a9-4989-af56-904f74d76c43.png"><br><br>
 
-2. 펀딩 상세 정보 페이지 내 커뮤니티
+2. 펀딩 상세정보 페이지 내 커뮤니티
 
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/96126414/223680358-82e1464c-d9e8-4eaf-b9c8-d9b768921eb1.png"><br><br>
 
